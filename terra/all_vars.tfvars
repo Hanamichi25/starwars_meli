@@ -1,0 +1,6 @@
+region   = "us-east-2"
+vpc_id   = "vpc-5f09b234"
+subnet_a = "subnet-26fd5f4d"
+subnet_b = "subnet-970b13ed"
+subnet_c = "subnet-8ab9f9c6"
+ami_id   = "ami-01aab85a5e4a5a0fe"
