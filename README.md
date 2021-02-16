@@ -9,7 +9,7 @@ Este proyecto contiene la solución al problema propuesto
 
 ## Installation
 
-- Encontrará un script _userdata.sh_ El cual se encarga de generar el ejecutable de la aplicación, en este debe modificar el nombre del bucket en la linea _8_ del script
+- Encontrará un script _build.sh_ El cual se encarga de generar el ejecutable de la aplicación, en este debe modificar el nombre del bucket en la linea _8_ del script
 
 Para realizar la ejecución:
 
