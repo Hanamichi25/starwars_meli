@@ -31,7 +31,7 @@ Una vez ejecutado encontrará el LB al cual podrá ejecutar las peticiones neces
 
 ## Diagrama arquitectura
 
-https://github.com/Hanamichi25/starwars_melitree/main/data/arquitectura.jpg
+https://github.com/Hanamichi25/starwars_meli/tree/main/data/arquitectura.jpg
 
 ## Contributing
 
