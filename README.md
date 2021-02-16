@@ -29,6 +29,10 @@ terraform apply -var-file=all_vars.tfvars
 
 Una vez ejecutado encontrará el LB al cual podrá ejecutar las peticiones necesarias en el servicio.
 
+## Diagrama arquitectura
+
+https://github.com/Hanamichi25/starwars_meli/data/arquitectura.jpg
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
